@@ -1,4 +1,6 @@
-// src/app/page.tsx
+// src/app/page.tsx 
+
+'use client';
 import { useState } from 'react';
 import axios from 'axios';
 
